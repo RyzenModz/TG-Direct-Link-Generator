@@ -51,7 +51,7 @@
 
 ### Original Repository
 
-The main working part was taken from [TG-Direct-Link-Generator](https://github.com/DeekshithSH/TG-Direct-Link-Generator).
+The main working part was taken from [TG-Direct-Link-Generator](https://github.com/RyzenModz/TG-Direct-Link-Generator).
 
 ## How to make your own
 
